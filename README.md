@@ -13,6 +13,10 @@ Included:
 
 Large local assets such as datasets and checkpoints are intentionally not included in this repository.
 
+They are provided separately here:
+
+- Google Drive: <https://drive.google.com/drive/folders/1WkGwl3AW_coPkFwI7e_Af7Q5qbuH4BXt?usp=drive_link>
+
 Run from this directory with:
 
 ```bash
